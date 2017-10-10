@@ -8,3 +8,7 @@ While learning device tree I found below links very useful
    
    Very useful link it has all chapter <<learned Interrupt form this >>
   https://notes.shichao.io/lkd/ch7/#interrupts
+  
+  
+  Copy from user , why we should use ?
+  http://linuxforthenew.blogspot.in/2013/01/why-doshould-we-use-copyfromuser-or.html
