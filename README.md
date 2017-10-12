@@ -12,3 +12,7 @@ While learning device tree I found below links very useful
   
   Copy from user , why we should use ?  very usefull link
   http://linuxforthenew.blogspot.in/2013/01/why-doshould-we-use-copyfromuser-or.html
+  
+  
+  I2c Releated topics 
+  link https://www.i2c-bus.org/clock-stretching/
