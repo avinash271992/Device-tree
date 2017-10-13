@@ -20,3 +20,6 @@ While learning device tree I found below links very useful
   INterrupt
   Link : https://stackoverflow.com/questions/5934402/can-an-interrupt-handler-be-preempted
   some interrupt handlers (known in Linux as fast interrupt handlers) run with all interrupts on the local processor disabled. This is done to ensure that the interrupt handler runs without interruption, as quickly as possible. More so, all interrupt handlers run with their current interrupt line disabled on all processors. This ensures that two interrupt handlers for the same interrupt line do not run concurrently. It also prevents device driver writers from having to handle recursive interrupts, which complicate programming
+  
+  DMA 
+  http://www.makelinux.net/ldd3/chp-15-sect-4
