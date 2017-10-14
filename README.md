@@ -12,7 +12,8 @@ While learning device tree I found below links very useful
   
   Copy from user , why we should use ?  very usefull link
   http://linuxforthenew.blogspot.in/2013/01/why-doshould-we-use-copyfromuser-or.html
-  
+  So copy_to_user and copy_from_user provide protection, first it provides protection ensuring the address is a valid user space address and handling the page fault in case of invalid pointer sending EFAULT to user rather than crashing the kernel.
+For exact details, please refer the documentation in the linux kernel how this is handled, please refer https://www.kernel.org/doc/Docum...
   
   I2c Releated topics 
   link https://www.i2c-bus.org/clock-stretching/
