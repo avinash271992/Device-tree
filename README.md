@@ -1,5 +1,5 @@
 # Device-tree
-
+IMportant Question http://www.thegeekstuff.com/2012/08/c-interview-questions/?utm_source=feedburner
 While learning device tree I found below links very useful 
   1). https://stackoverflow.com/questions/22901282/hard-time-in-understanding-module-device-tableusb-id-table-usage
   2). https://stackoverflow.com/questions/22777644/detect-the-presence-of-a-device-when-its-hot-plugged-in-linux/22777951#22777951
