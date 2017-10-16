@@ -24,3 +24,5 @@ For exact details, please refer the documentation in the linux kernel how this i
   
   DMA 
   http://www.makelinux.net/ldd3/chp-15-sect-4
+  
+  Bootloader : https://www.embeddedrelated.com/showarticle/118.php
